@@ -265,6 +265,7 @@
 		EE1A59A92F77E4E700F37DB9 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1A59A82F77E4E700F37DB9 /* DetailViewController.swift */; };
 		EE1A59AB2F7814A500F37DB9 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1A59AA2F7814A500F37DB9 /* GameViewController.swift */; };
 		EE1A5A5B2F7841C500F37DB9 /* Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1A5A5A2F7841C500F37DB9 /* Style.swift */; };
+		EE1A5B0C2F7AC03A00F37DB9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = EE1A5B0B2F7AC03A00F37DB9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -528,6 +529,7 @@
 		EE1A59A82F77E4E700F37DB9 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		EE1A59AA2F7814A500F37DB9 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		EE1A5A5A2F7841C500F37DB9 /* Style.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Style.swift; sourceTree = "<group>"; };
+		EE1A5B0B2F7AC03A00F37DB9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -544,6 +546,7 @@
 		EE1A537F2F76999C00F37DB9 = {
 			isa = PBXGroup;
 			children = (
+				EE1A5B0B2F7AC03A00F37DB9 /* README.md */,
 				EE1A56AD2F769D7600F37DB9 /* Challenge */,
 				EE1A53892F76999C00F37DB9 /* Products */,
 			);
@@ -923,6 +926,7 @@
 				EE1A58C92F76AA5900F37DB9 /* si.png in Resources */,
 				EE1A58CA2F76AA5900F37DB9 /* tc.png in Resources */,
 				EE1A58CB2F76AA5900F37DB9 /* sc.png in Resources */,
+				EE1A5B0C2F7AC03A00F37DB9 /* README.md in Resources */,
 				EE1A58CC2F76AA5900F37DB9 /* je.png in Resources */,
 				EE1A58CD2F76AA5900F37DB9 /* it.png in Resources */,
 				EE1A58CE2F76AA5900F37DB9 /* id.png in Resources */,
